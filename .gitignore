@@ -1,0 +1,5 @@
+/BloodConnect-Backend/node_modules/
+/BloodConnect-Backend/.env
+
+/BloodConnect-FrontEnd/Frontend/node_modules/
+/BloodConnect-FrontEnd/Frontend/.gitignore

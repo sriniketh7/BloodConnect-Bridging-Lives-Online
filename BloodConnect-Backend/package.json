@@ -1,0 +1,31 @@
+{
+  "name": "bloodconnect-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "bcrypt": "^5.1.1",
+    "canvas": "^3.1.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "cron": "^3.5.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.2",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.10.0",
+    "path": "^0.12.7",
+    "pdfkit": "^0.16.0",
+    "twilio": "^5.4.4"
+  }
+}
