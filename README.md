@@ -79,7 +79,7 @@ npm start
 **Frontend**
 cd BloodConnect-FrontEnd/Frontend
 npm install
-npm start
+npx expo start
 
 ---
 
